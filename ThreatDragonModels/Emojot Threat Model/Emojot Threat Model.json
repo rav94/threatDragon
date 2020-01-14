@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Emojot Threat Model",
+    "owner": "Ravindu Fernando",
+    "description": "Data Flow within Emojot Infrastructure"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Emojot Threat Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
